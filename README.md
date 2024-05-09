@@ -1,2 +1,3 @@
 # hangman
-A basic hangman game coded in c++
+
+This is a basic hangmang game created in c++ using introductory code and librarys.
